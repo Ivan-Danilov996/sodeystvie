@@ -1537,6 +1537,10 @@ body {
     color: inherit;
 }
 
+.footer__contact .call-me a {
+    color: #0f8ad8;
+}
+
 .footer__address span {
     font-weight: normal;
     font-size: 18px;
