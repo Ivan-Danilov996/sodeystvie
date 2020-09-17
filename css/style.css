@@ -2339,6 +2339,7 @@ body {
     .why-we {
         background-image: url("../img/sky-m.png");
         padding-bottom: 70px;
+        overflow: hidden;
     }
 
     .help {
